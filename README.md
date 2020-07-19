@@ -1,2 +1,4 @@
-### https://github.com/Yu4n/Blogs/issues
-### https://yu4n2.blogspot.com/ (Blocked in China)
+# 本博已迁移到blooger
+
+# https://yu4n2.blogspot.com/
+# 欢迎大家捧场
